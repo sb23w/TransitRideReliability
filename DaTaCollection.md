@@ -1,5 +1,7 @@
 To schedule times for all lines in major transit systems, you typically need to gather structured data for each system. Here’s how you can approach it:
 
+https://gtfs.org/resources/data/
+
 1. Use GTFS Feeds (General Transit Feed Specification)
 Most major transit systems worldwide use GTFS, which is a standard for sharing public transportation schedules and associated geographic information. GTFS feeds consist of multiple files (in CSV format) that describe transit schedules, stops, routes, and services.
 
